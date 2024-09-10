@@ -1,4 +1,4 @@
-Descrição do projeto: O projeto refere-se à implementação de um novo Sistema de Informação Hospitalar (SIRS) no Hospital RAA Soewondo, substituindo o antigo sistema FoxPro 2.0, que se tornou obsoleto. Para garantir uma transição suave e reduzir os riscos de falhas, a estratégia escolhida foi a migração através do método cutover paralelo, no qual o novo sistema será implementado enquanto o antigo ainda permanece em funcionamento. Isso permite que os usuários se familiarizem com o novo sistema antes que o antigo seja completamente desativado.
+Descrição do projeto: O projeto refere-se à implementação de um novo Sistema de Informação Hospitalar (SIRS) no Hospital RAA Soewondo, substituindo o antigo sistema FoxPro 2.0, que se tornou obsoleto. Para garantir uma transição suave e reduzir os riscos de falhas, a estratégia escolhida foi a migração através do método cutover paralelo, no qual o novo sistema será implementado enquanto o antigo ainda permanece em funcionamento. Isso permite que os usuários se familiarizem com o novo sistema antes que o antigo seja desativado.
 
 Principais elementos:
 
